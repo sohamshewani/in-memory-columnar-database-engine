@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Assuming we want to run all tests
+make test
